@@ -1,0 +1,14 @@
+{
+  "domain": "solarman-modbus",
+  "version": "0.0.1",
+  "name": "SolarMAN Logger",
+  "documentation": "https://www.home-assistant.io/components/solarman-modbus",
+  "issue_tracker": "https://github.com/YodaDaCoda/hass-solarman-modbus/issues",
+  "codeowners": ["@YodaDaCoda"],
+  "config_flow": true,
+  "dependencies": [],
+  "after_dependencies": [],
+  "requirements": ["uModbus==1.0.4"],
+  "iot_class": "local_polling",
+  "quality_scale": "silver"
+}
