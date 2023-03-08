@@ -1,3 +1,5 @@
+# THIS PROJECT HAS BEEN ARCHIVED
+The component by @StephanJoubert is superior to this & I recommend you use that instead https://github.com/StephanJoubert/home_assistant_solarman
 # hass-solarman-modbus
 
 ## Home Assistant custom component for solar inverters that communicate over the solarmanv5 protocol.
